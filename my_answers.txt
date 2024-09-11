@@ -1,12 +1,5 @@
 Dit is exercise 2 van drep after lecture hw week 3
-<<<<<<< HEAD
+
 halloooooooooooooooooooooooooooooo
 =======
 add data to my_answers.txt on GitHub
-
-
-
-
-
-
->>>>>>> 2f821f9365084e339fcec8597d4b8944edb80791
