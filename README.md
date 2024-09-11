@@ -1,2 +1,2 @@
 # version-control-exercises
-Hallo
+Hallo, dit is een test om te kijken of ik Github snap
